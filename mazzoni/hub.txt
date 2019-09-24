@@ -1,0 +1,6 @@
+hub labhub
+shortLabel Mazzoni Lab
+longLabel Data from Mazzoni lab
+genomesFile genomes.txt
+email giardine@bx.psu.edu
+descriptionUrl description.html
